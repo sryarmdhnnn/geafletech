@@ -227,9 +227,9 @@ body {
   cursor: pointer;
 } */
 
-.experience__button:hover .experience__icon {
+/* .experience__button:hover .experience__icon {
   transform: translateX(0.25rem);
-}
+} */
 
 .experience__icon {
   font-size: 1rem;
