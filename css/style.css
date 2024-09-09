@@ -238,7 +238,7 @@ body {
 } */
 
 /* experience modal */
-.experience__modal {
+/* .experience__modal {
   position: fixed;
   inset: 0;
   background-color: #1d2534b3;
@@ -249,7 +249,7 @@ body {
   opacity: 0;
   transition: 0.4s;
   z-index: 1000;
-}
+} */
 
 .experience__modal-content {
   position: relative;
