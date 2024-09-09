@@ -251,12 +251,12 @@ body {
   z-index: 1000;
 } */
 
-.experience__modal-content {
+/* .experience__modal-content {
   position: relative;
   background-color: var(--secondary);
   padding: 4.5rem 1.5rem 2.5rem;
   border-radius: 1.5rem;
-}
+} */
 
 .experience__modal-title,
 .experience__modal-description {
