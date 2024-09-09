@@ -200,11 +200,11 @@ body {
   font-weight: 100;
   line-height: 1.6;
 } */
-.experience__container {
+/* .experience__container {
   grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
   padding-top: 1rem;
-}
+} */
 
 .experience__card {
   background-color: var(--primary);
