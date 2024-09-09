@@ -231,11 +231,11 @@ body {
   transform: translateX(0.25rem);
 } */
 
-.experience__icon {
+/* .experience__icon {
   font-size: 1rem;
   transition: 0.4s;
   color: var(--secondary);
-}
+} */
 
 /* experience modal */
 .experience__modal {
