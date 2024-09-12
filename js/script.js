@@ -16,7 +16,7 @@ document.querySelector("#search-btn").onclick = (e) => {
   e.preventDefault();
 };
 
-// Klik di luar elemen
+// Klik di luar element
 const hm = document.querySelector("#hamburger-menu");
 const sb = document.querySelector("#search-btn");
 
