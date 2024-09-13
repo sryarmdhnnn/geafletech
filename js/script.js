@@ -28,26 +28,3 @@ document.addEventListener("click", function (e) {
     searchForm.classList.remove("active");
   }
 });
-
-// Menu
-const modalViews = document.querySelectorAll(".experience__modal"),
-  modalBtns = document.querySelectorAll(".experience__button"),
-  modalClose = document.querySelectorAll(".experience__modal-close");
-
-let modal = function (modalClick) {
-  modalViews[modalClick].classList.add("active-modal");
-};
-
-modalBtns.forEach((mb, i) => {
-  mb.addEventListener("click", () => {
-    modal(i);
-  });
-});
-
-modalClose.forEach((mc) => {
-  mc.addEventListener("click", () => {
-    modalViews.forEach((mv) => {
-      mv.classList.remove("active-modal");
-    });
-  });
-});
